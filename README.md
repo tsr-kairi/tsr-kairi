@@ -27,7 +27,7 @@ Skills: HTML / CSS /JAVASCRIPT /BOOTSTRAP /REACT / JS / TAILWIND
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://github.com/tsr-kairi)
 
 <details>
 
