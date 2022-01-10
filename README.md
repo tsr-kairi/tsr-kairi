@@ -27,7 +27,7 @@ Skills: HTML / CSS /JAVASCRIPT /BOOTSTRAP /REACT / JS / TAILWIND
 
 #### Profile Visits
 
-![visitors](https://github.com/tsr-kairi)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tsr-kairi)
 
 <details>
 
