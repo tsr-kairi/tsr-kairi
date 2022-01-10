@@ -6,7 +6,7 @@
 
 I am a FrontEnd Developer, Who is passionate about making error-free website, with 100% client satisfactions. I have passions for learning and sharing my knowledge with others as publicly as possible.
 
-Most of the time I worked with static website, but some technologies i enjoy working with includes react/js next/js as well as tailwind.
+Most of the time I worked with static website, but some technologies i enjoy working with includes react.js next.js as well as tailwind also.
 
 ### Skills
 
