@@ -39,8 +39,8 @@ Most of the time I worked with static website, but some technologies i enjoy wor
 
 #### For more information
 
-- :paperclip: [My Resume/CV]()
-- :email: ranjitkairi990@gmail.com
+- :paperclip: [My Resume/CV](file:///C:/Users/ranji/Downloads/Cv%20-%20Ranjit%20(1).pdf)
+- :email: [Mail](ranjitkairi990@gmail.com)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
@@ -49,11 +49,10 @@ Most of the time I worked with static website, but some technologies i enjoy wor
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+HTML   15 hrs 41 mins        ████████████████████▓░░░░   82.29 %
+Js         1 hr 50 mins      █████████▒░░░░░░░░░░░░░░░   09.61 %
+Markdown     1 hr 27 mins    ██████░░░░░░░░░░░░░░░░░░░   07.63 %
+Other        2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
