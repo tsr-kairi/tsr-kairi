@@ -4,9 +4,7 @@
 
 ## I'm Ranjit Kairi
 
-I am a [FrontEnd Developer](https://www.linkedin.com/in/tsr-kairi/), I have passions for learning and sharing my knowledge with others as publicly as possible.
-
-Most of the time I worked with static website, but some technologies i enjoy working with includes react.js next.js as well as tailwind also.
+I am a [Frontend Developer](https://www.linkedin.com/in/tsr-kairi/), and I have a passion for learning and sharing my knowledge with others as publicly as possible. Most of the time, I work with static websites, but some technologies I enjoy working with include React.js, Next.js, and TypeScript, as well as Tailwind...
 
 ## 💼 Technical Skills
 
