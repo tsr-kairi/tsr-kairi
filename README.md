@@ -1,4 +1,4 @@
-![A FrontEnd Developer]([https://scontent.fdel27-1.fna.fbcdn.net/v/t39.30808-6/271353500_114105357809091_3081852344333949181_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=diR07m380voAX_OoX73&_nc_ht=scontent.fdel27-1.fna&oh=00_AT-k68HGdFvRiT6hPJJne5OENX59bvJR9UIiRx5ier6qdg&oe=621ACCE4](https://scontent.fdel1-3.fna.fbcdn.net/v/t39.30808-6/271353500_114105357809091_3081852344333949181_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=la5gfoA0s5cAX8ToCyz&_nc_ht=scontent.fdel1-3.fna&oh=00_AfBoMSqru39Uhp4Q1yD5y4RCNKPK7pHDM423fHwH56kSlw&oe=63C00424))
+![A FrontEnd Developer]([https://www.linkpicture.com/q/gpi.jpg])
 
 ### Hi there 👋,
 
