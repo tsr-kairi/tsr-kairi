@@ -1,4 +1,4 @@
-![A FrontEnd Developer](https://scontent.fdel27-1.fna.fbcdn.net/v/t39.30808-6/271353500_114105357809091_3081852344333949181_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=diR07m380voAX_OoX73&_nc_ht=scontent.fdel27-1.fna&oh=00_AT-k68HGdFvRiT6hPJJne5OENX59bvJR9UIiRx5ier6qdg&oe=621ACCE4)
+![A FrontEnd Developer]([https://scontent.fdel27-1.fna.fbcdn.net/v/t39.30808-6/271353500_114105357809091_3081852344333949181_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=diR07m380voAX_OoX73&_nc_ht=scontent.fdel27-1.fna&oh=00_AT-k68HGdFvRiT6hPJJne5OENX59bvJR9UIiRx5ier6qdg&oe=621ACCE4](https://scontent.fdel1-3.fna.fbcdn.net/v/t39.30808-6/271353500_114105357809091_3081852344333949181_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=la5gfoA0s5cAX8ToCyz&_nc_ht=scontent.fdel1-3.fna&oh=00_AfBoMSqru39Uhp4Q1yD5y4RCNKPK7pHDM423fHwH56kSlw&oe=63C00424))
 
 ### Hi there 👋,
 
@@ -13,8 +13,8 @@ Most of the time I worked with static website, but some technologies i enjoy wor
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <br />
 <br />
 
-- 🔭 I’m currently working on VS Code
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on [nex-gen tech](https://www.nex-gen.tech/)
+- 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about Web Development
 
