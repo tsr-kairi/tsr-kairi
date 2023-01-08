@@ -1,4 +1,4 @@
-![A FrontEnd Developer]([https://www.linkpicture.com/q/gpi.jpg])
+![A FrontEnd Developer](https://www.linkpicture.com/q/gpi.jpg)
 
 ### Hi there 👋,
 
