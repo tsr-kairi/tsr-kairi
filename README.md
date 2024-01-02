@@ -1,4 +1,4 @@
-![A FrontEnd Developer](https://www.linkpicture.com/q/gpi.jpg)
+![A FrontEnd Developer](https://www.linkpicture.com/q/gpi.jpg) <a href="https://app.daily.dev/ranjitkairi"><img src="https://api.daily.dev/devcards/b8d57975ceac4eaf93e3a1404f60ab3b.png?r=127" width="400" alt="Ranjit Kairi's Dev Card"/></a>
 
 ### Hi there 👋,
 
